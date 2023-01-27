@@ -9,7 +9,7 @@ Hi there, I'm Elisa and I'm a <a>junior Front-end Developper </a> 👋
 👩🏼‍💻 I just achieved my formation in Web developement in @LeWagon at Nice. Where I had the oportunity to complete my knowledge in differents web languages (see the technical skills part). 2023 Will be the year of changes, Where I will get the oportunity to get the job in the branch whose my passion.
 
 ## 🔭 I'm currently working on :
-My portfolio :
+My portfolio : https://www.canva.com/design/DAFYxpGU59M/NFRhWAkhouKtxfUYsudXng/view?website#4:portofolio
 
 ## 🌱 I’m currently learning :
 I'm strengthening my skills in Ruby in Rails, JS and his framework like React and Vue.
