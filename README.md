@@ -12,7 +12,7 @@ Hi there, I'm Elisa and I'm a <a>junior Front-end Developper </a> 👋
 My portfolio : https://www.canva.com/design/DAFYxpGU59M/NFRhWAkhouKtxfUYsudXng/view?website#4:portofolio
 
 ## 🌱 I’m currently learning :
-I'm strengthening my skills in Ruby in Rails, JS and his framework like React and Vue.
+I'm strengthening my skills in Ruby in Rails, JS and his framework like React and Vue, and others like Angular.
 And I'm working In personal project.
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -25,6 +25,7 @@ And I'm working In personal project.
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=003B57)
 </br>
 <!--
 **ElisaSouchois/ElisaSouchois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
